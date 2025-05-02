@@ -1,2 +1,2 @@
 # TPMapp
-Team Project Management App - Work in Progress
+Team Project Management App - building Frontend rn
